@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 695de0a300e4e4c46969cd499f44f23a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310321
+  packageName: Checkout Frenzy - Convenience Store Simulator
+  packageVersion: 1.3.0
+  assetPath: Assets/CheckoutFrenzy/Scripts/UI/ChatBubble.cs
+  uploadId: 759734

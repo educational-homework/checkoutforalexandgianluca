@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6be19370a790ad14e8a67f6a205dcfa2, type: 3}
+  m_Name: NotFoundDialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - Text: Ugh, I can't find anything anywhere.
+  - Text: Where is it? I've looked everywhere...
+  - Text: They're supposed to have it here...
+  - Text: 'This store is a mess.
+
+      How am I supposed to find anything?'
+  - Text: Seriously? Nothing?
+  - Text: 'I''m wasting my time.
+
+      I should just go somewhere else.'
+  - Text: 'Maybe I should ask someone...
+
+      but I hate asking for help.'
+  - Text: They probably don't even have it in stock.
+  - Text: I'm never coming back to this store.
+  - Text: I can't believe I can't find what I'm looking for.

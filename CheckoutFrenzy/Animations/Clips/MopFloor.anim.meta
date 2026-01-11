@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2b252b0c93c365409cc1df183426672
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310321
+  packageName: Checkout Frenzy - Convenience Store Simulator
+  packageVersion: 1.3.0
+  assetPath: Assets/CheckoutFrenzy/Animations/Clips/MopFloor.anim
+  uploadId: 759734

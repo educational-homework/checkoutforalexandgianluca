@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 950ae3dcafa455e4d8ac19ade66c5cca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310321
+  packageName: Checkout Frenzy - Convenience Store Simulator
+  packageVersion: 1.3.0
+  assetPath: Assets/CheckoutFrenzy/Scripts/Customer/Editor/DialogueEditor.cs
+  uploadId: 759734

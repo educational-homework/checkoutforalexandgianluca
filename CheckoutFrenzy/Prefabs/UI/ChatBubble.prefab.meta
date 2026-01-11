@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa13c004131cf044f9f1b5c64dcdb352
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310321
+  packageName: Checkout Frenzy - Convenience Store Simulator
+  packageVersion: 1.3.0
+  assetPath: Assets/CheckoutFrenzy/Prefabs/UI/ChatBubble.prefab
+  uploadId: 759734
